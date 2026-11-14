@@ -75,6 +75,8 @@ plt.axis('off')
 
 <img width="627" height="447" alt="image" src="https://github.com/user-attachments/assets/14d95d77-2043-4aac-b6ae-1b9e60cda79b" />
 
+# Result
+Thus, edges are successfully detected using Sobel, Prewitt, Roberts, Laplacian, and Canny edge detection techniques. Each method highlights edges differently based on gradient and intensity variations, improving feature extraction and analysis.
 
 
 
